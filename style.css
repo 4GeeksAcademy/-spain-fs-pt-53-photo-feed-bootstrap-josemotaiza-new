@@ -1,0 +1,11 @@
+.image-div{
+    width: 350px;
+    height: 350px;
+}
+.botones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 1em;
+}
